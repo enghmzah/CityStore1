@@ -1,0 +1,24 @@
+# General
+node_modules/
+dist/
+build/
+.env
+*.log
+
+# UI build folders
+ui/node_modules/
+ui/build/
+ui/dist/
+ui/.next/
+ui/.cache/
+
+# Assets
+*.zip
+*.mp4
+*.mov
+*.webm
+*.pdf
+
+# IDE & system
+.vscode/
+.DS_Store
